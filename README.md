@@ -10,6 +10,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [References](#References)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -99,4 +100,12 @@ Give credit here.
 ## Contact
 Created by [@mahlaranjeet] - feel free to contact me! mahlaranjeet@gmail.com
 
+## References
 
+(1) Datasets: https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view
+(2) Ddefault worksheet: https://github.com/ContentUpgrad/Convolutional-Neural-(4) 
+(3) Networks/blob/main/Melanoma%20Detection%20Assignment/Starter_code_Assignment_CNN_Skin_Cancer%20(1).ipynb
+(4) Google drive where I stored my input data : https://drive.google.com/drive/u/0/folders/1R3fZKVrcs-HY5df-HSTppn3Too74pSjo
+(5) Image classification using CNN from https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
+(6) Efficient way to build CNN architecture from https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7
+(7) Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
