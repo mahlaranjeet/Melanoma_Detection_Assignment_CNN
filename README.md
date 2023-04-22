@@ -79,14 +79,23 @@ Finally, we incorporated Batch Normalization and Augmentation techniques, which 
 ## some images of model building and visualizations (not all)
 
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image1.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image2.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image3.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image4.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image5.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image6.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image7.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image8.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image9.png)
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image10.png)
 
 
