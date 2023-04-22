@@ -76,7 +76,7 @@ In the beginning, we experimented without utilizing the ImageDataGenerator, whic
 Finally, we incorporated Batch Normalization and Augmentation techniques, which proved to be extremely effective in moving forward.
 
 
-## Model architecture and visualization images
+## some images of model building and visualizations (not all)
 
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image1.png)
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image2.png)
