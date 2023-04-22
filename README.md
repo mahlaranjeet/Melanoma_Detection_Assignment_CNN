@@ -69,7 +69,25 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Conclusions
 
+The rebalancing of the class played a significant role in mitigating overfitting of the data, resulting in a decrease in loss. However, the approach also resulted in a notable decrease in accuracy.
+
+In the beginning, we experimented without utilizing the ImageDataGenerator, which led to a high degree of overfitting in the data. Subsequently, we implemented dropout and the ImageDataGenerator, which helped to reduce overfitting.
+
+Finally, we incorporated Batch Normalization and Augmentation techniques, which proved to be extremely effective in moving forward.
+
+
+## Model architecture and visualization images
+
 ![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image1.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image2.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image3.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image4.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image5.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image6.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image7.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image8.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image9.png)
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image10.png)
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
