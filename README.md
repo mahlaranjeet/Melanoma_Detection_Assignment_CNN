@@ -68,6 +68,8 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Conclusions
 
+![alt text](https://github.com/mahlaranjeet/Melanoma_Detection_Assignment_CNN/blob/main/images/Image1.png)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
